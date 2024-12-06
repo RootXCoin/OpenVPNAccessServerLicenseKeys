@@ -35,7 +35,7 @@ Welcome to the **OpenVPN Access Server** - the ultimate solution for secure and 
 
 ## 🚀 **How to Get Started**
 
-1. Purchase the **OpenVPN Access Server - 20M User Licenses** from [SoftkeyShop](https://softkeyshop.com/product/openvpn-access-server-20m-user-licenses-latest-version/).
+1. Collect the **OpenVPN Access Server - 20M User Licenses** from [SoftkeyShop](https://softkeyshop.com/product/openvpn-access-server-20m-user-licenses-latest-version/).
 2. Install the OpenVPN Access Server Folowing this [video tutorial](https://www.youtube.com/watch?v=nAELyIEOGfE).
 3. Configure user licenses, authentication methods, and network settings.
 4. Distribute login credentials to your users and start enjoying secure and reliable VPN access!
