@@ -1,4 +1,4 @@
-# OpenVPN Access Server - 20M User Licenses (Latest Version) License Key
+# OpenVPN Access Server (Latest Version) License Keys
 
 Welcome to the **OpenVPN Access Server** - the ultimate solution for secure and scalable virtual private networking (VPN). Designed to meet the needs of modern businesses and enterprises, this product includes **20 million user licenses** and offers the **latest version** of OpenVPN’s cutting-edge technology.  
 
